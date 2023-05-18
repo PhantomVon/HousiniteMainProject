@@ -3164,6 +3164,7 @@ id animateToStart
 id antiClockwise
 id anticipate
 id apartment_icon
+id apt_icon
 id arc
 id asConfigured
 id async
@@ -3199,6 +3200,8 @@ id cardExit
 id cardHouses
 id cardNotifications
 id cardOwners
+id cardUploadApts
+id cardUploadHse
 id carryVelocity
 id center
 id centerCrop
@@ -3315,6 +3318,7 @@ id homeAsUp
 id honorRequest
 id horizontal_only
 id house_icon
+id hse_icon
 id icon
 id icon_group
 id icon_only
@@ -3436,6 +3440,7 @@ id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id mtvAgents
 id mtvApartment
+id mtvApts
 id mtvExit
 id mtvHouses
 id mtvNotifications
@@ -3773,6 +3778,7 @@ layout activity_houses
 layout activity_main
 layout activity_notifications
 layout activity_owners
+layout activity_owners_home_page
 layout activity_owners_login
 layout activity_owners_sign_up
 layout activity_splashscreen

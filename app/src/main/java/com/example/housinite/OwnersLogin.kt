@@ -43,7 +43,7 @@ class OwnersLogin : AppCompatActivity() {
                     progressDialog.dismiss()
                     if (it.isSuccessful){
                         Toast.makeText(this,"User logged in successfully", Toast.LENGTH_LONG).show()
-                        startActivity(Intent(this@OwnersLogin,MainActivity::class.java))
+                        startActivity(Intent(this@OwnersLogin,OwnersHomePage::class.java))
                         finish()
                     }else{
                         Toast.makeText(this,"Login failed", Toast.LENGTH_LONG).show()

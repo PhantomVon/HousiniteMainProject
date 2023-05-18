@@ -31,6 +31,7 @@ id agentsPassword
 id agentsPhone
 id agents_icon
 id apartment_icon
+id apt_icon
 id btn_choose_image
 id btn_upload_image
 id cardAgents
@@ -39,8 +40,11 @@ id cardExit
 id cardHouses
 id cardNotifications
 id cardOwners
+id cardUploadApts
+id cardUploadHse
 id exit_icon
 id house_icon
+id hse_icon
 id image_preview
 id linearLayout
 id mAptBedrooms
@@ -75,6 +79,7 @@ id mTvSignIn
 id mTvSignUp
 id mtvAgents
 id mtvApartment
+id mtvApts
 id mtvExit
 id mtvHouses
 id mtvNotifications
@@ -101,6 +106,7 @@ layout activity_houses
 layout activity_main
 layout activity_notifications
 layout activity_owners
+layout activity_owners_home_page
 layout activity_owners_login
 layout activity_owners_sign_up
 layout activity_splashscreen

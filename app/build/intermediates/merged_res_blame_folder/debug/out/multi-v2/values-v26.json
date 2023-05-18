@@ -4,7 +4,7 @@
             "outputFile": "com.example.housinite.app-mergeDebugResources-32:/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "/home/emobilis/.gradle/caches/transforms-3/c27514faad773738b8866a3b9bd69121/transformed/appcompat-1.6.1/res/values-v26/values-v26.xml",
+                    "source": "C:\\Users\\ADMIN TX\\.gradle\\caches\\transforms-3\\c27514faad773738b8866a3b9bd69121\\transformed\\appcompat-1.6.1\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",
